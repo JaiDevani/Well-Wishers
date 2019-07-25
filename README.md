@@ -28,4 +28,4 @@ python run.py
 * [Sarvesh Joglekar](https://github.com/sarvesh12k26)
 * [Hrishikesh Sawant](https://github.com/sawanthrishi)
 * Priya Dhadda
-* Jai Devani
+* [Jai Devani](https://github.com/JaiDevani)
